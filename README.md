@@ -1,4 +1,4 @@
-PhoneGap Plugin
+PhoneGap Plugin 1.0.1
 ===============
 
 ### Brief ###
