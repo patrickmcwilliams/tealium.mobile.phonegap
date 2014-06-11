@@ -37,8 +37,8 @@ var Tealium =  {
         cordova.exec(
             tealium.successCallback, // success callback function
             tealium.errorCallback, // error callback function
-            'TealiumPg', // mapped to our native class called "Calendar"
-            'init', // with this action name
+            'TealiumPg', 
+            'init', 
             [ config ]
         );
     },
@@ -68,7 +68,7 @@ var Tealium =  {
             console.log("tealium call successful");
     },
     errorCallback: function(){
-            console.log("Fail, check syntax of tealium.init(String account, String profile, String target) or tealium.track(String type, Object data)");
+            console.log("Fail, there might be an issue with the plugin");
     }
 }
 
