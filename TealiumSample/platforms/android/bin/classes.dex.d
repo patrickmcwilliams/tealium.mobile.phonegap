@@ -1,13 +1,13 @@
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes.dex : \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/com/tealium/sample/BuildConfig.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$attr.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$drawable.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$string.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$xml.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/com/tealium/sample/TealiumSample.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/org/apache/cordova/plugin/TealiumPg$1.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/org/apache/cordova/plugin/TealiumPg$2.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/classes/org/apache/cordova/plugin/TealiumPg.class \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/dexedLibs/classes-db522fa0fe12069bb59d0669d05ede01.jar \
-/Users/patrickmcwilliams/Documents/Git/phonegap-plugin/TealiumSample/platforms/android/bin/dexedLibs/tealium.2.1c-0acc8057f1e11c935753fe983e448293.jar \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes.dex : \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/com/tealium/sample/BuildConfig.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/com/tealium/sample/HelloWorld.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$attr.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$drawable.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$string.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R$xml.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/com/tealium/sample/R.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/org/apache/cordova/plugin/TealiumPg$1.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/org/apache/cordova/plugin/TealiumPg$2.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/classes/org/apache/cordova/plugin/TealiumPg.class \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/dexedLibs/classes-37d621935897c31e86ce47d579286ed7.jar \
+/Users/jasonkoo/Tealium/mobile_plugins-BUILD/PhoneGap/TealiumSample/platforms/android/bin/dexedLibs/tealium.2.1c-dfff960a5bf548c875a3966b7e2287d0.jar \
