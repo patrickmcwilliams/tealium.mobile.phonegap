@@ -3,7 +3,7 @@ PhoneGap Plugin 1.0.1
 
 ### Brief ###
 
-This plugin provides the means to tag Titanium applications for the purposes of leveraging [Tealium's tag management platform (Tealium IQ)](http://tealium.com/products/enterprise-tag-management/), which permit [Tealium-enabled mobile apps](http://tealium.com/products/enterprise-tag-management/mobile/) to add, remove or edit analytic services remotely, in real-time, without requiring a code rebuild or new release to take effect.
+This plugin provides the means to tag PhoneGap applications for the purposes of leveraging [Tealium's tag management platform (Tealium IQ)](http://tealium.com/products/enterprise-tag-management/), which permit [Tealium-enabled mobile apps](http://tealium.com/products/enterprise-tag-management/mobile/) to add, remove or edit analytic services remotely, in real-time, without requiring a code rebuild or new release to take effect.
 
 ### Table of Contents ###
 
